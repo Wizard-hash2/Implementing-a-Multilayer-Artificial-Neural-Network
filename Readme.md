@@ -15,4 +15,12 @@ Activating a neural network via forward propagation
  and note z is the net input
  and to map the a into sigmoid we use:![alt text](image-2.png)
 
- 
+ ![alt text](image-3.png)
+
+3 dimensional tensor visualization: ![alt text](image-4.png)
+
+Forward-propagating the input features of an NN
+![alt text](image-5.png)
+
+Backpropagating the error of an NN
+![alt text](image-6.png)
